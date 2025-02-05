@@ -12,8 +12,8 @@ main{
 #fondo{
     background: center url(fondo.webp) no-repeat fixed;
     background-size: cover;
-    width: 2400;
-    height: 1350;
+    width: 2400px;
+    height: 1350px;
     position: fixed;
     z-index: -1;
     top: 0;
