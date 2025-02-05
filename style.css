@@ -12,11 +12,12 @@ main{
 #fondo{
     background: center url(fondo.webp) no-repeat fixed;
     background-size: cover;
-    width: 2400px;
-    height: 1350px;
+    width: 100vw;
+    height: 100vh;
     position: fixed;
     z-index: -1;
     top: 0;
+    transition: all 3s;
 }
 #chat{
     display: flex;
