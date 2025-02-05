@@ -18,7 +18,7 @@ main{
     z-index: -1;
     top: 0;
     left: 0;
-    transition: all 1s ease;
+    transition: all 0.5s ease;
 }
 #chat{
     display: flex;
